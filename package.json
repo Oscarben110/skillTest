@@ -4,5 +4,8 @@
   },
   "dependencies": {
     "cypress": "^13.9.0"
+  },
+  "scripts": {
+    "cy:test": "npx cypress run"
   }
 }
